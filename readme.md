@@ -13,5 +13,5 @@ Subscriber can set the amount that will be traded at the marketplace in % or in 
 units. User can also use signalindex as trading platform for binary options, 60-seconds
 options. Option-builder functionality is already exists.
 - - -
-**TECHNOLOGIES**: Django, Celery, Memcached, South, Nose
+**TECHNOLOGIES**: Python, Django, Celery, Memcached, South, Nose, Javascript, HTML5/CSS3
 - - -
